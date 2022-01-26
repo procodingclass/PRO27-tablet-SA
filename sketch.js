@@ -1,5 +1,5 @@
 
-// add more points in JSON format
+// add more points as key-value pairs
 var points = [
   { x: 400, y: 200 },
 
